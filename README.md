@@ -40,7 +40,7 @@ README.md – პროექტის დეტალური დოკუმ�
 
 NaN-ების მართვა (Drop & Impute): შენ სწორად განსაზღვრე, რომ სვეტები 90%-ზე მეტი გამოტოვებული მნიშვნელობებით (მაგ. Identity სვეტები) მოდელს აბნევს (Overfitting). ამიტომ შექმენი DropMissingFeatures კლასი, ხოლო დარჩენილი მნიშვნელობებისთვის გამოიყენე მედიანური შევსება.
 
-![Missing Values Analysis](Screenshot 2026-05-08 131133.png)
+![Missing Values](imagesScreenshot 2026-05-08 131133.png)
 
 ავტომატიზირებული Pipeline: შექმენი my_preprocessing_classes.py, რაც უზრუნველყოფს, რომ ტრენინგის დროს გამოყენებული ყველა წესი (Cleaning, Encoding) იდენტურად განმეორდეს სატესტო მონაცემებზეც.
 
