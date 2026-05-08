@@ -72,7 +72,7 @@ XGBoost (გრადიენტული ბუსტინგი)პროე
 
 # MLOps და Tracking
 პროექტის მართვისთვის გამოყენებულია MLflow და DagsHub:
-
+🔗 **[ნახეთ MLflow ექსპერიმენტები აქ]([შენი_ლინკი_ჩასვი_აქ](https://dagshub.com/aleko-mamukashvili/-IEEE-CIS-Fraud-Detection..mlflow))**
 ყოველი ექსპერიმენტის ჰიპერპარამეტრები და მეტრიკები ილოგებოდა რეალურ დროში.
 
 საუკეთესო მოდელი ინახებოდა Model Registry-ში.
